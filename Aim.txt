@@ -1,0 +1,4 @@
+In this perticular Project I'm trying to make a simple calculator.
+which will perform only four operations
+{+, -,  *,  /}
+Meanwhile I'll try to make a GUI too... 
